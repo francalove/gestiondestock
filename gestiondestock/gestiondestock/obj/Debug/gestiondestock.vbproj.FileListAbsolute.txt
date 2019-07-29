@@ -1,0 +1,2 @@
+C:\Users\francine\AppData\Local\Temporary Projects\gestiondestock\bin\Debug\gestiondestock.exe.config
+E:\LICENCE FGI\SEMESTRE 6\UML\projet UML\projetfinal\gestiondestock\gestiondestock\bin\Debug\gestiondestock.exe.config
